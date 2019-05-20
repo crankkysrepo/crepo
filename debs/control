@@ -1,0 +1,10 @@
+Package: com.crankk.reprovision
+Name: ReProvision
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Description: 
+Maintainer: Crankk
+Author: Crankk
+Section: Tweaks
+Version: 12
+Installed-Size: 10573694

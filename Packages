@@ -13,3 +13,19 @@ Section: Tweaks
 Description: Injection library that allows you to alter memory in app.
 Author: Crankk
 Name: DLGMemor Injected
+
+Package: com.crankk.reprovision
+Version: 12.0.1
+Architecture: iphoneos-arm
+Maintainer: Crankk
+Installed-Size: 10573694
+Depends: firmware (>= 12), mobilesubstrate, preferenceloader, applist
+Filename: /com.crankk.reprovision.deb
+Size: 10573694
+MD5sum: e01d764b70d8ad1a9cf35eae944962d4
+SHA1: 684dfff90782e30e1499abda4c2c8af5facd3bb2
+SHA256: 27d05d240aca105eb3bfaadacc0b00199733053d62bd6d9c469fdb3e808347dc
+Section: Tweaks
+Description: 
+Author: Crankk
+Name: ReProvision
