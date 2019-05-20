@@ -1,12 +1,15 @@
 Package: com.crankk.dlgmemorinjected
-Name: DLGMI 
-Version: 1.0
-Size: 196.2
+Version: 11.3.1
 Architecture: iphoneos-arm
-Description: Game Hacker
-Maintainer: Crankk <crankkhd@gmail.com>
-Author: Crankk <crankkhd@gmail.com>
+Maintainer: Crankk
+Installed-Size: 200994
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Filename: /com.crankk.dlgmemorinjected.deb
+Size: 200994
+MD5sum: 20c6e6b1d51d0c2d22be495c2b6d9c19
+SHA1: 1b394f410c30a50efe41e839fbbcb704e2692882
+SHA256: adb9f8b7bce323b6104b163e3e6dd1b750ae19bdb014847e0872f1aa2e974f97
 Section: Tweaks
-MD5sum: 20C6E6B1D51D0C2D22BE495C2B6D9C19
-Filename: debs//com.crankk.dlgmemorinjected.deb
-
+Description: Injection library that allows you to alter memory in app.
+Author: Crankk
+Name: DLGMemor Injected
