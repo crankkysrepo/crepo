@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Crankk
 Installed-Size: 200994
 Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
-Filename: /com.crankk.dlgmemorinjected.deb
+Filename: deb//com.crankk.dlgmemorinjected.deb
 Size: 200994
 MD5sum: 20c6e6b1d51d0c2d22be495c2b6d9c19
 SHA1: 1b394f410c30a50efe41e839fbbcb704e2692882
